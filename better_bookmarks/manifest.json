@@ -6,7 +6,8 @@
     "permissions": [
         "bookmarks",
         "contextMenus",
-        "activeTab"
+        "activeTab",
+        "storage"
     ],
     "background": {
         "scripts": ["js/background.js",

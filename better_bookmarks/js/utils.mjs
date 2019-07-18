@@ -118,7 +118,6 @@ export function createFolder(folderId, folderTitle) {
  */
 export function addBookmarkContent() {
     var folderDiv, dropdownDiv, bmarkContent;
-    const folderDivs   = [];
     const dropdownDivs = [];
 
     /*

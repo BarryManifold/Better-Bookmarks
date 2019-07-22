@@ -1,10 +1,19 @@
-/**
+/*
  * file        : content_script.js
  * description : This file contains code that grabs, whenever
  *               available, the title, description, and url of
  *               the website that the user has currently visited.
  *
  * NOTE: This file is not currently used.
+ *
+ */
+/**
+ * @file This file contains code that grabs, whenever
+ *     available, the title, description, and url of
+ *     the website that the user has currently visited.
+ *
+ * @author Brady McGrath
+ * @author Robert Hu
  *
  */
 
